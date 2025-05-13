@@ -1,0 +1,6 @@
+@KOL1_HostAddress = http://localhost:5169
+
+GET {{KOL1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
